@@ -1,0 +1,145 @@
+.content{
+    width: 1140px;
+    margin: auto;
+}
+.content .content-left{
+    width: 700px;
+    float: left;
+    padding-right: 80px;
+}
+.content h1{
+    font-size: 24px;
+    color: #c33;
+    margin-top: 34px;
+    margin-bottom: 14px;
+}
+.content hr{
+    width: 770px;
+    margin-top: 30px;
+}
+.content p{
+    font-size: 12px;
+    color: #333;
+    line-height: 20px;
+}
+.content span{
+    font-size: 12px;
+    color: #999;
+    display: block;
+    margin-top: 54px;
+}
+.content .content-left .one .left,
+.content .content-left .one .center{
+    float: left;
+}
+.content .content-left .one .right{
+    float: right;
+    line-height: 200px;
+}
+.content .content-left .one .right a{
+    color: #c33;
+}
+.content .content-left .one .center{
+    width: 400px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.content .content-right{
+    float: right;
+    width: 360px;
+}
+.content .content-right .one .left,
+.content .content-right .one .right{
+    float: left;
+}
+.content .content-right .title{
+    width: 360px;
+    height: 30px;
+    background: #c30;
+    line-height: 30px;
+    margin: 10px 0;
+
+}
+.content .content-right .title a{
+    display: inline-block;
+    width: 80px;
+    text-align: right;
+    color: #fff;
+    font-size: 13px;
+}
+.content .content-right .title1 a{
+    background: url("../erji-images/right-logo1.png") no-repeat left center;
+}
+.content .content-right .title2 a{
+    background: url("../erji-images/right-logo2.png") no-repeat left center;
+}
+.content .content-right .title3 a{
+    background: url("../erji-images/right-logo3.png") no-repeat left center;
+}
+.content .content-right hr{
+    border: 1px solid #ccc;
+    width: 340px;
+    margin-bottom: 20px;
+}
+.content .content-right .one .right{
+    padding-top: 24px;
+    padding-left: 10px;
+}
+.content .content-right ul{
+    font-size: 0;
+    margin-right: -50px;
+    text-align: center;
+}
+.content .content-right ul li{
+    font-size: 12px;
+    display: inline-block;
+    width: 160px;
+    margin-right: 44px;
+}
+.content .content-right ul li a{
+    display: inline-block;
+    color: #333;
+    margin: 10px 0;
+}
+.content .content-right .img1{
+    margin-bottom: 24px;
+}
+.w{
+    width: 1140px;
+    margin: auto;
+}
+.w .page{
+    width: 540px;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+.w .page a{
+    height: 40px;
+    border-radius: 4px;
+    color: #333;
+    font-size: 14px;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    border: 1px solid #ccc;
+    width: 34px;
+}
+.w .page a:hover{
+    background: #c33;
+}
+.w .page .last-page,
+.w .page .next-page{
+    width: 70px;
+}
+.bottom-images{
+    width: 1140px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+.hr{
+    margin: 0;
+    width: 1000px;
+    border: 1px solid #ccc;
+    margin-top: 50px;
+}
