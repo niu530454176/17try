@@ -238,7 +238,7 @@
     width: 360px;
     height: 30px;
     position: absolute;
-    left: 888px;
+    left: 884px;
     line-height: 30px;
     top: 737px;
     color: #fff;
@@ -481,6 +481,9 @@
     line-height: 20px;
     border-radius: 4px;
     margin-right: 14px;
+}
+#right_down{
+    margin-top: 10px;
 }
 .content6 .right1 .bottom-2 .right-bottom1{
     background: #c33;
